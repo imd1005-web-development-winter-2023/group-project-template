@@ -10,12 +10,24 @@ assignees: ""
 
 ## Description
 
+<!--
+
 Add a brief summary of the product that your team is building. Not more than 100 words.
+
+-->
 
 ## In scope
 
+<!--
+
 List the features and / or functionality that is planned to be included as part of your product launch.
+
+-->
 
 ## Out of scope
 
+<!--
+
 List the features and / or functionality that will not be included in the first release of your product.
+
+-->

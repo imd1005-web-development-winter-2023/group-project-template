@@ -10,8 +10,16 @@ assignees: ""
 
 ## Description
 
+<!--
+
 Descripe the issue that you need help with
+
+-->
 
 ## Screenshot
 
+<!--
+
 If applicable, add screenshots to help explain your problem.
+
+-->
