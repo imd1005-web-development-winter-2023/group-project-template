@@ -8,7 +8,7 @@ assignees: ""
 
 # Sprint Retro
 
-**Week**: 2 OR 3 (identify which one)
+**Week**: <!-- 2 OR 3 (identify which one) -->
 
 ## Tasks completed during this sprint
 
